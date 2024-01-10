@@ -1,4 +1,4 @@
-/*My name is Joseph Capuiso. The Code I wrote for this assignment was to tell a user to enter two dates and then
+/*The Code I wrote for this assignment was to tell a user to enter two dates and then
     those dates get stored. Then when the user enters the two dates the program checks in the if statements by
     month, day, and year to see which one of the two dates entered comes first on the a calender. The user then
     can enter more dates to try out or enter the correct format of zeros to end the program.*/
